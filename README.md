@@ -39,5 +39,5 @@
 
 ## Authors
 
-* Dagmawi Theodros
-* Eyoel Tekle
+* Dagmawi Theodros -
+* Eyoel Tekle -
